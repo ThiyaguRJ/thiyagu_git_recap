@@ -1,2 +1,7 @@
 hello thiyagu
+<<<<<<< Updated upstream
 check stash github crash course
+=======
+github crash course
+he is back
+>>>>>>> Stashed changes
